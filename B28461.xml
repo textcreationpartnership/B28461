@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offered to the Honorable House of Commons, for calling the coyn of England, and prevent any further clipping.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28461</idno><idno type="EEBO-CITATION">99883280</idno>
+  <idno type="VID">185364</idno>
+  <idno type="EEBO-PROQUEST">2240890589</idno>
+  
+            <idno type="OCLC"> 11769461</idno>
+            <idno type="STC">Wing P3757</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[41]</idno>
+            <idno type="STC">ESTC R224687</idno>
+            <idno type="STC">ESTC R20212</idno>
+            <idno type="PROQUEST">ocm99883280</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883280e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185364)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offered to the Honorable House of Commons, for calling the coyn of England, and prevent any further clipping.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>On verso: "for calling in the coyne of England &amp; preventing further clippint" in ms.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Counterfeits and counterfeiting --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+               <term type="topical_term">Adulterated coins --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:185364:1"/>
+            <head>PROPOSALS Humbly Offered to the HONORABLE House of Commons, For Calling the Coyn of England; And PREVENT any Further CLIPPING.</head>
+            <p>THAT all Clipt Mony of this Kingdom may be Called to a Place Appointed by the last Day of <hi>May,</hi> or in <hi>June.</hi>
+            </p>
+            <p>
+               <hi>That</hi> 24. of this Honourable House may be Chosen as Commissioners for the Assisting, Receiving and Weighing of the Clipt Mony, and that any Five be Acorum to the same; Only one Day in the Week, by which means will avoid all the Defrauds that can be in such a Great thing.</p>
+            <p>
+               <hi>That</hi> all the Mony that shall be brought may be Weigh'd, and the Bearer thereof shall have the like Weight in New Coyn, and what falls short, to have a Bill, Note, or Tally with Interest of <hi>6 per:</hi> to be paid every Year, such a Part thereof, and to extinguish the said Notes, Bills, or Tallies in 5 or 6 Years time, which by the Fund propos'd will fully pay this Debt.</p>
+            <p>
+               <hi>That</hi> the said 24 Commissioners, or any Five of them may be Receiving the said Mony Brought to the Place Appointed, and deliver it to the Mint, and Receive it back again; and so from time to time, which can make no Defraud in no way.</p>
+            <p>
+               <hi>That all the Mony</hi> shall Pass, be Coyn'd of its Value and Weight, as hath been in former Reigns.</p>
+            <p>
+               <hi>That</hi> all Mony now Coyn'd shall pass at the Rate of 5 <hi>s.</hi> 6 <hi>d. per</hi> Crown, of which the 6 <hi>d.</hi> shall go towards the Loss of the Clipt Mony; and at the End of 5 or 6 Years above mentioned, the said 6 <hi>d.</hi> may be taking of and by a Stamp upon the said Mony, will appear to be paid, and then to go Currantly for 5 <hi>s.</hi> If this Honourable House thinks fit; Preventing by these means the melting of it down, and sending it out of this Kingdom.</p>
+            <p>
+               <hi>That</hi> also the Mill'd and Broad Mony shall be Brought to be Stampt upon the same, and pay 6 <hi>d. per</hi> Crown towards the Loss of the Clipt Mony, which shall pass for 5 <hi>s.</hi> 6 <hi>d.</hi> that makes the Mony equal, and at the said 5 or 6 Years, be like the other New Coyn, and pay the Six pence laid on it again; and those that brings the said Mill'd and Broad Mony, to have Three Half Pence Advantage, which will prevent sending it out, or melting it down.</p>
+            <p>
+               <hi>That</hi> no Clipt Mony may pass in this Kingdom upon the Penalty, <hi>&amp;c.</hi> as well to those that Receive it, as those that Pays it, by which means may avoid that <hi>Little</hi> Unclipt remaining.</p>
+            <p>
+               <hi>Effectual ways for Preventing the sending out our Mony or Bullion of this Kingdom.</hi>
+            </p>
+            <p>THAT all the Bullion that comes to this Kingdom shall be Entred at the Custom-House by whom it belongs to paying no Duty nor Fees.</p>
+            <p>
+               <hi>That</hi> all Forreign Bullion that is Exported, the Importer as well as the Exporter shall make Oath, That it is the same formerly Imported, which is Exported upon Penalty of Forfeiting the same.</p>
+            <p>
+               <hi>That</hi> the Commissioners of the Custom-house do give Leave to any that shall Inform before them, to take one of their Surveyors down with him to Seize it.</p>
+            <p>
+               <hi>That</hi> no Bullion may be Exported in any Forreign Bottom of <hi>Man of Wan,</hi> for they cannot go a Board to Seize any.</p>
+            <p>
+               <hi>A FƲND for the Raising 7 or 800000</hi> L. <hi>in 5 or 6 Years time, to pay the Notes, Bills, or Tallies given.</hi>
+            </p>
+            <p>2 <hi>s.</hi> 6 <hi>d.</hi> Upon every Passenger that go's out of this Kingdom, as also that comes to this Kingdom, which will bring 6 or 8000 <hi>l.</hi>
+            </p>
+            <p>4 <hi>d.</hi> Upon every 1000 Pins, to be laid upon the Wyre, which will bring 30000 <hi>l.</hi>
+            </p>
+            <p>4 <hi>l.</hi> Sterling upon every Hundred Weight of Cocoa Nuts, the Duty thereof being expir'd, and a Duty upon Coffee and Tea.</p>
+            <p>I suppose, may be sufficient for the Loss of the Clipt Coyn, and pay the Interest of the same, and be very easy to any Body, and no Charge to the Poor.</p>
+            <pb facs="tcp:185364:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
